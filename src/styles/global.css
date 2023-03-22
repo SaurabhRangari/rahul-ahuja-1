@@ -11,3 +11,11 @@
 *{
   scroll-behavior: smooth;
 }
+
+body{
+  scroll-behavior: smooth;
+}
+
+.navbar li+li{
+  margin-left: 20px;
+}
